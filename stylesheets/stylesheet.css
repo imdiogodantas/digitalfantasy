@@ -99,7 +99,7 @@ a {
     font-size: 1rem; } }
 
 .main-content :first-child {
-  margin-top: 4em; }
+  margin: 4em 1em 1em 1em; }
 .main-content img {
   max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
@@ -240,4 +240,5 @@ a {
 
 .main-header {
   font-size: 2.8em;
+  margin: 0 1em 1em 1em;
 }
